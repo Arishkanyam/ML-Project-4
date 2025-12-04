@@ -1,4 +1,4 @@
-#KOSPI trade market sensitivity prediction Bonus Project 
+# KOSPI trade market sensitivity prediction Bonus Project 
 
 ## Overview
 This script implements:
